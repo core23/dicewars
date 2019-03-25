@@ -20,7 +20,7 @@ Start the game
 $ mvn java:exec
 ```
 
-Build the project and create a runable JAR
+Build the project and create a runnable JAR
 
 ```
 $ mvn package
