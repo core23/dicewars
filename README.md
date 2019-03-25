@@ -17,7 +17,7 @@ with the name DiceWars by GameDesign.
 Start the game
 
 ```
-$ mvn java:exec
+$ mvn exec:java
 ```
 
 Build the project and create a runnable JAR
